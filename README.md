@@ -31,7 +31,7 @@ SandeepBlog App is a full-stack web application built using the MERN stack (Mong
 
 ## Demo
 
-Experience the live demo of the application: [https://xery-blog-mern.vercel.app](https://xery-blog-mern.vercel.app)
+Experience the live demo of the application:
 
 ## Getting Started
 
@@ -41,7 +41,7 @@ Follow these steps to set up the application:
 
 ```bash
 # Clone the repository
-git clone https://github.com/abubakar-shaikh-dev/xery-blog-mern.git
+git clone 
 
 # Client - Install dependencies
 cd client
@@ -96,4 +96,4 @@ The app should now be up and running at http://localhost:5173
 
 ## Contact
 
-For any questions or issues, feel free to reach out to us at shaikhabubakar2380@gmail.com. We would love to hear from you!
+For any questions or issues, feel free to reach out to us at  We would love to hear from you!
